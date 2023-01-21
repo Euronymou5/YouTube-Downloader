@@ -11,7 +11,7 @@
 
 **Despues descargaremos el .zip del repositorio**
 ```
-https://github.com/Euronymou5/Password-Generator/archive/refs/heads/main.zip
+https://github.com/Euronymou5/YouTube-Downloader/archive/refs/heads/main.zip
 ```
 
 **Despues tienes que abrir la cmd o terminal de windows y ejecutar el comando:**
