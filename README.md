@@ -1,5 +1,7 @@
 # YouTube-Downloader
-**Descargador de videos para youtube hecho en python.**
+**Descargador de videos para youtube hecho en python.** 
+
+*Simple programa hecho para acostumbrarme a PyQT5.*
 
 ---------
 
