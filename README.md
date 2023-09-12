@@ -30,9 +30,9 @@ python main.py
 
 # Imagenes
 
-<img src="https://media.discordapp.net/attachments/995599976463859713/1061539803247677490/image.png?width=380&height=222">
+<img src="https://media.discordapp.net/attachments/995599976463859713/1151002427739353169/image.png?width=560&height=312">
 
-**Los videos descargados se guardaran en la carpeta donde este el .py**
+**Los videos descargados se guardaran en la carpeta "output"*
 
 # Contacto
 **Discord:** **Euronymou5#3155**
