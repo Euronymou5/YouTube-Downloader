@@ -18,7 +18,13 @@ https://github.com/Euronymou5/YouTube-Downloader/archive/refs/heads/main.zip
 
 **Despues tienes que abrir la cmd o terminal de windows y ejecutar el comando:**
 ```bash
-pip install pytube
+pip install requirements.txt
+```
+
+**Ejecutar programa:**
+
+```bash
+python main.py
 ```
 ------------------
 
