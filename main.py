@@ -142,14 +142,14 @@ def descarga(calidad, video):
         except Exception as e:
             messagebox.showerror("Youtube Downloader", f"A ocurrido un error al intentar descargar el video: {e}")
     elif calidad == "144p":
-      #  try:
-        down = video.streams.filter(progressive=True, res=calidad).first()
-        down.download(output_path='output/')
-        progressBar.setValue(100)
+       try:
+          down = video.streams.filter(progressive=True, res=calidad).first()
+          down.download(output_path='output/')
+          progressBar.setValue(100)
 
-        messagebox.showinfo("Youtube Downloader", "Video descargado exitosamente.")
-       # except Exception as e:
-        #    messagebox.showerror("Youtube Downloader", f"A ocurrido un error al intentar descargar el video: {e}")
+          messagebox.showinfo("Youtube Downloader", "Video descargado exitosamente.")
+       except Exception as e:
+           messagebox.showerror("Youtube Downloader", f"A ocurrido un error al intentar descargar el video: {e}")
 
 def descargar_func():
     url = entry_video_url.text()
