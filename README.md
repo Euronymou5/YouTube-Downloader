@@ -32,7 +32,7 @@ python main.py
 
 <img src="https://media.discordapp.net/attachments/995599976463859713/1151002427739353169/image.png?width=560&height=312">
 
-**Los videos descargados se guardaran en la carpeta "output"*
+*Los videos descargados se guardaran en la carpeta "output"*
 
 # Contacto
 **Discord:** **Euronymou5#3155**
